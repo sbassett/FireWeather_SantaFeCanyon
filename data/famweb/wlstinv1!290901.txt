@@ -1,0 +1,49 @@
+
+WLSTINV1-Weather Station Inventory for                      290901              
+                                                                                
+Station: 290901   Name: SANTA FE WATERSHED     NESDIS: 324172AC                 
+                                                                                
+Type: 4 (RAWS S NFDRS)   Create/Mod Date: 29-Oct-2020     Obs Time/Z: 12/MST    
+Assoc Man: ______     Prev Stn: ______     Fcst Zone: 352                       
+                                                                                
+State: 35-NM   County: 049-Santa Fe            Lat/Lon: 35 41 13, 105 51 37     
+Obs Agy: 1 (USDA FS )     Unit: FSAF         Mnemonic: USFS      FS Reg:   3    
+                                                                                
+Fuel Stk: ___________   Wdy FM Mea: ___________                                 
+Site: 3   Elev:  7674   Asp: 0   Ann Prec:  22.00   Season:                     
+Ltng scale:   1.00   Hum code: 2   Temp code: 1   Pres code: 1                  
+   Wind Spd code: 1   KBDI:    One/Ten Fl: N                                    
+                                                                                
+User: FS6909   Acc Lst: SFC                                                     
+Comments: NEW STATION ON THE SANTA FE WATERSHED.  OLD STATION WAS RO PORTABLE # 
+ 3 290199.  TRANSMITS AT 00:53:00 SO WE USE 1200 READING FOR OBS STARTING 1/1/2 
+006                                                                             
+                                                                                
+                                                                                
+   P   ** 78 NFDRS Only **   88 S G C Staffing Idx Breakpnts                    
+   r    H            Greenup  S l r l          Low     High                     
+   i FM S Herb Date     Date  b p s i  SI DC SI% Val SI% Val                    
+   - -- - --------- --------- - - - -  -- -- --- --- --- ---                    
+   1 7K F 26-oct-20 11-oct-19 _ 2 P 2  EC 6  90  70  97  80                     
+   2 7J F 26-oct-20 11-oct-19 _ 2 P 2  EC 6  90 212  97 241                     
+   3 7G F 26-oct-20 11-oct-19 _ 2 P 2  EC 6  90  63  97  74                     
+   4 7C F 26-oct-20 11-oct-19 _ 2 P 2  EC 6  90  17  97  20                     
+   5 16V _ _________ _________ _ 2 P   __                                       
+   6 16W _ _________ _________ _ 2 P   __                                       
+   7 16X _ _________ _________ _ 2 P   __                                       
+   8 16Y _ _________ _________ _ 2 P   __                                       
+   9 16Z _ _________ _________ _ 2 P   __                                       
+                                                                                
+   NESDIS      S#   Description                                SHEF             
+   --------   ---   ----------------------------------------   -----            
+   324172AC     9   Rain Accumulation, Inches                  PC               
+   324172AC    10   Wind Speed MPH, Miles per Hour             US               
+   324172AC    11   Wind Direction Degrees, Degrees            UD               
+   324172AC    12   Air Temperature, Standard Placement, Deg   TA               
+   324172AC    13   Fuel Temperature, Degrees Fahrenheit       MT               
+   324172AC    14   Relative Humidity, Percent                 XR               
+   324172AC    15   Battery Voltage, volts                     VB               
+   324172AC    17   Fuel Moisture, Percent                     MM               
+   324172AC    18   Wind Direction, Peak, Degrees              UX               
+   324172AC    19   Wind Speed Peak MPH, Miles per Hour        UP               
+   324172AC    20   Solar Radiation, watts per meter squared   RD               
